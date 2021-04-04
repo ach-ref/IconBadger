@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name               = 'IconBadger'
-  spec.version            = '1.0.0'
+  spec.version            = '1.0.1'
   spec.summary            = 'Script adding dynamically a badge with a custom text to the app\'s icon on build time'
   spec.homepage           = 'https://github.com/ach-ref/IconBadger'
   spec.description        = <<-DESC
