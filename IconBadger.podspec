@@ -3,13 +3,10 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name               = 'IconBadger'
-  spec.version            = '1.0.1'
-  spec.summary            = 'Script adding dynamically a badge with a custom text to the app\'s icon on build time'
+  spec.version            = '1.0.2'
+  spec.summary            = 'Script adding dynamically a badge with a custom text to the app icon on build time'
   spec.homepage           = 'https://github.com/ach-ref/IconBadger'
-  spec.description        = <<-DESC
-                            Script written in Swift that prepares the iOS app icon overlay with a ribbon and a given text
-                            such as alpha, beta or version and build numbers
-                            DESC
+  spec.description        = 'Script written in Swift that prepares the iOS app icon overlay with a ribbon and a given text such as alpha, beta or version and build numbers'
   
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
